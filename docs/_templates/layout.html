@@ -1,0 +1,4 @@
+{% extends "!layout.html" %}
+{% block relbar_bottom %}
+{{ super() | replace('id="rellinks"', 'id="rellinks-bottom"') }}
+{% endblock %}
