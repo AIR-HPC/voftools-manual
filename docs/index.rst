@@ -11,8 +11,7 @@ on polygonal and polyhedral cells, including PLIC and PPIC reconstruction.
 
 .. note::
 
-   This is the first web edition for review. Section, figure, table and equation
-   numbers follow the PDF manual to make comparison straightforward.
+   Section, figure, table and equation numbers match those in the PDF manual.
 
 .. container:: start-links
 
