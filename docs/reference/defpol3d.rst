@@ -27,7 +27,7 @@ The ``defpol3d`` routine selects one of the polyhedral geometries shown in Fig.Â
 ``voftools_drcube``     118
 ``voftools_zigzag``     119
 ``voftools_logo``       120
-                        *2D geometries*
+\                       *2D geometries*
 ``voftools_square``     1
 ``voftools_hexagon``    2
 ``voftools_tri``        3
